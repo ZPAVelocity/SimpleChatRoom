@@ -1,2 +1,2 @@
 # SimpleChatRoom
-A simple C/S system chat room using tcp and udp communication. 
+A simple p2p chat room using udp communication. 
